@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    }
+
+/* LiDLG Search */
+.lidlG #lidlG_logo{
+    text-align: left;
+    display: block;
+    border: 10px solid seagreen;
+    margin: 0 auto;
+    position: relative;
+    left: 100px;
+
+}
+
+/* copy Не понимаю, почему цсс не цепляется за idшники инпутов*/
+  /* copy Понять, как двигать кнопки, менять разрешение картинки и далее */
+
+#form_serch1 {
+    padding: 0 8px;
+    width: 450px;
+    line-height: 32px;
+    padding: 20px 10px;
+}
